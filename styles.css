@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .container{
 	display:flex;
-	justify-content:absolute;
+	justify-content:center;
 	align-items:absolute;
 }
 .box{
@@ -10,7 +10,7 @@
 img{
 	width:100%;
 	height:100%;
-	object-fit:cover:
+	object-fit:cover;
 }
 button{
 	padding:auto;
